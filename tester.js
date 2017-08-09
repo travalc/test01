@@ -30,4 +30,4 @@ function sumEveryNumberInArray (arr) {
     console.log(sum);
 }
 
-sumEveryNumberInArray([1,2,3,4]);
+sumEveryNumberInArray([1,2,3,4]);   
